@@ -4,9 +4,7 @@
 #include<iomanip>
 using namespace std;
 
-// CDC 2k24
-// Rajit Bhojani
-// 22MA10046
+
 
 class account
 {
@@ -333,3 +331,4 @@ void deposit_withdraw(int n, int option)
 	if (found == false)
 		cout << "\n\n\t\t\tRecord Not Found ";
 }
+
